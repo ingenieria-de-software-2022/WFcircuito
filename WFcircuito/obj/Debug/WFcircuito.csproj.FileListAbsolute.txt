@@ -1,0 +1,11 @@
+C:\Users\lange\Downloads\ingenieria-de-software\WFcircuito\WFcircuito\bin\Debug\WFcircuito.exe.config
+C:\Users\lange\Downloads\ingenieria-de-software\WFcircuito\WFcircuito\bin\Debug\WFcircuito.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WFcircuito\WFcircuito\bin\Debug\WFcircuito.pdb
+C:\Users\lange\Downloads\ingenieria-de-software\WFcircuito\WFcircuito\obj\Debug\WFcircuito.csproj.AssemblyReference.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WFcircuito\WFcircuito\obj\Debug\WFcircuito.csproj.SuggestedBindingRedirects.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WFcircuito\WFcircuito\obj\Debug\WFcircuito.Form1.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WFcircuito\WFcircuito\obj\Debug\WFcircuito.Properties.Resources.resources
+C:\Users\lange\Downloads\ingenieria-de-software\WFcircuito\WFcircuito\obj\Debug\WFcircuito.csproj.GenerateResource.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WFcircuito\WFcircuito\obj\Debug\WFcircuito.csproj.CoreCompileInputs.cache
+C:\Users\lange\Downloads\ingenieria-de-software\WFcircuito\WFcircuito\obj\Debug\WFcircuito.exe
+C:\Users\lange\Downloads\ingenieria-de-software\WFcircuito\WFcircuito\obj\Debug\WFcircuito.pdb
